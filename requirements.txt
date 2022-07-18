@@ -1,0 +1,6 @@
+python-telegram-bot
+nsetools
+bsedata
+yahoo_fin
+yfinance
+matplotlib
